@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .NAME one-word domains still available to buy.
 
-This dataset contains 4,029 .NAME one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,028 .NAME one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.NAME one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=name-oneword-domains&utm_content=description.top) (4,027) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.NAME one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.name        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.name        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.name  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.name      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.name    | available | 60       | 2%     | 7      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.NAME one word domains
 | abhorrent.name  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.name    | available | 106      | 5%     | 7      |           |         |         |
 | abient.name     | available | 54       | 1%     | 6      |           |         |         |
-| abit.name       | available | 66       | 16%    | 5      |           |         |         |
+| abit.name       | premium   | 66       | 16%    | 5      |           |         |         |
 | abject.name     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.name     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.name  | available | 78       | 1%     | 9      |           |         |         |
