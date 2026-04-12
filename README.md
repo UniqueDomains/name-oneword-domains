@@ -1,22 +1,22 @@
-# Available .NAME One-Word Domains (5,621,926)
+# Available .NAME One-Word Domains (8,141)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C141%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C143%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C141%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .name one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .name one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,141-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,141 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 8,143 rows · **Live catalog:** 8,141 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/name`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .NAME one-word domain 
 
 ### Files
 
-- `name.csv` — public CSV extract (8,141 rows)
-- `name.json` — public JSON extract (8,141 rows)
+- `name.csv` — public CSV extract (8,143 rows)
+- `name.json` — public JSON extract (8,143 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -71,18 +71,18 @@ print(df.head())
 | luxembourg.name | resell    | —           | —             | 60             | 97     | 10     | InterNetX GmbH         |
 | crazy.name      | premium   | $355,217.34 | —             | 64             | 32     | 5      | Dynadot Inc            |
 | seventeen.name  | available | $9.98       | —             | 84             | 62     | 9      | namecheap              |
-| taiwan.name     | resell    | —           | —             | 66             | 92     | 6      | Dynadot Inc            |
-| option.name     | premium   | $9.98       | —             | 104            | 20     | 6      | namecheap              |
+| taiwan.name     | resell    | —           | —             | 66             | 93     | 6      | Dynadot Inc            |
+| option.name     | premium   | $9.98       | —             | 104            | 21     | 6      | namecheap              |
 | athletics.name  | available | $9.98       | —             | 69             | 52     | 9      | namecheap              |
 | authentic.name  | resell    | —           | —             | 76             | 83     | 9      | Dynadot Inc            |
 | abnormal.name   | premium   | $676.20     | $676.20       | 74             | 17     | 8      | name.com               |
 | strategy.name   | available | $9.98       | —             | 74             | 43     | 8      | namecheap              |
 | identity.name   | resell    | —           | —             | 80             | 65     | 8      | Dynadot Inc            |
 | central.name    | premium   | —           | —             | 70             | 100    | 7      | —                      |
-| experience.name | available | $9.98       | —             | 74             | 42     | 10     | namecheap              |
-| fantastic.name  | resell    | —           | —             | 88             | 63     | 9      | GoDaddy.com, LLC       |
+| experience.name | available | $9.98       | —             | 74             | 41     | 10     | namecheap              |
+| fantastic.name  | resell    | —           | —             | 88             | 62     | 9      | GoDaddy.com, LLC       |
 | gay.name        | premium   | —           | —             | 122            | 99     | 3      | —                      |
-| learning.name   | available | $9.98       | —             | 76             | 41     | 8      | namecheap              |
+| learning.name   | available | $9.98       | —             | 76             | 39     | 8      | namecheap              |
 | which.name      | resell    | —           | —             | 66             | 59     | 5      | Dynadot Inc            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,141-row public sample | 5,621,926 live domains                           |
+| 8,143-row public sample | 8,141 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
