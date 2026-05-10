@@ -808,6 +808,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52623fe7-7590-491b-af58-ea2bfdc5b7fb,Ihavecancer.name,available,9.98,,44,2,13,namecheap,,
 52743c2d-09f8-4d2b-ba58-a65586b32c86,blocks.name,available,9.98,,53,29,6,namecheap,,
 528c5081-38ec-4553-80a3-7128a84a371a,inwaiting.name,available,9.98,,50,1,10,namecheap,,
+529be190-5120-4ee9-8a6a-5876845caf6b,intelligent.name,premium,,,86,32,11,,,
 52ae1a94-bec4-4866-ba5a-11a5e0671061,hangbyathread.name,available,9.98,,56,1,16,namecheap,,
 52ca4e22-99ca-4c4c-b9e6-93e918bc7135,turndown.name,available,9.98,,74,4,9,namecheap,,
 52d2b99f-7224-4054-a3cb-344b69906067,ambulances.name,available,9.98,,58,5,10,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 652641f0-e987-4395-a596-d040ce2a2428,diehards.name,available,9.98,,48,3,8,namecheap,,
 65746a91-af0c-4619-a68d-590191e9b58d,toboggans.name,available,9.98,,59,1,9,namecheap,,
 658a6fe4-6a28-48b3-bcc6-a7d637798a3d,settings.name,available,9.98,,52,12,8,namecheap,,
-65913c5a-c446-4627-a5f1-eacffd1820cd,explanation.name,available,9.98,,68,7,11,namecheap,,

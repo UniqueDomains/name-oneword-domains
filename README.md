@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| edamame.name    | available | $9.98     | —             | 80             | 9      | 7      | namecheap            |
-| gearup.name     | available | $9.98     | —             | 80             | 16     | 7      | namecheap            |
-| QandA.name      | available | $9.98     | —             | 80             | 10     | 7      | namecheap            |
-| hangon.name     | available | $9.98     | —             | 82             | 6      | 7      | namecheap            |
-| dogsick.name    | available | $9.98     | —             | 90             | 1      | 7      | namecheap            |
-| leaveon.name    | available | $9.98     | —             | 80             | 1      | 8      | namecheap            |
-| presents.name   | available | $9.98     | —             | 80             | 9      | 8      | namecheap            |
-| surebet.name    | available | $9.98     | —             | 82             | 8      | 8      | namecheap            |
-| nets.name       | available | $9.98     | —             | 54             | 81     | 4      | namecheap            |
-| index.name      | resell    | —         | —             | 64             | 49     | 5      | Dominet (HK) Limited |
-| RedSox.name     | available | $9.98     | —             | 72             | 60     | 7      | namecheap            |
-| payments.name   | available | $9.98     | —             | 58             | 33     | 8      | namecheap            |
-| teams.name      | available | $9.98     | —             | 62             | 32     | 5      | namecheap            |
-| letsgo.name     | available | $9.98     | —             | 57             | 31     | 7      | namecheap            |
-| blocks.name     | available | $9.98     | —             | 53             | 29     | 6      | namecheap            |
-| echoes.name     | available | $9.98     | —             | 56             | 24     | 6      | namecheap            |
-| rekt.name       | available | $9.98     | —             | 40             | 24     | 4      | namecheap            |
-| motorsport.name | available | $9.98     | —             | 74             | 23     | 10     | namecheap            |
-| pls.name        | available | $9.98     | —             | 60             | 23     | 3      | namecheap            |
-| veterans.name   | available | $9.98     | —             | 56             | 23     | 8      | namecheap            |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| edamame.name     | available | $9.98     | —             | 80             | 9      | 7      | namecheap            |
+| gearup.name      | available | $9.98     | —             | 80             | 16     | 7      | namecheap            |
+| QandA.name       | available | $9.98     | —             | 80             | 10     | 7      | namecheap            |
+| hangon.name      | available | $9.98     | —             | 82             | 6      | 7      | namecheap            |
+| dogsick.name     | available | $9.98     | —             | 90             | 1      | 7      | namecheap            |
+| leaveon.name     | available | $9.98     | —             | 80             | 1      | 8      | namecheap            |
+| presents.name    | available | $9.98     | —             | 80             | 9      | 8      | namecheap            |
+| surebet.name     | available | $9.98     | —             | 82             | 8      | 8      | namecheap            |
+| nets.name        | available | $9.98     | —             | 54             | 81     | 4      | namecheap            |
+| index.name       | resell    | —         | —             | 64             | 49     | 5      | Dominet (HK) Limited |
+| intelligent.name | premium   | —         | —             | 86             | 32     | 11     | —                    |
+| RedSox.name      | available | $9.98     | —             | 72             | 60     | 7      | namecheap            |
+| payments.name    | available | $9.98     | —             | 58             | 33     | 8      | namecheap            |
+| teams.name       | available | $9.98     | —             | 62             | 32     | 5      | namecheap            |
+| letsgo.name      | available | $9.98     | —             | 57             | 31     | 7      | namecheap            |
+| blocks.name      | available | $9.98     | —             | 53             | 29     | 6      | namecheap            |
+| echoes.name      | available | $9.98     | —             | 56             | 24     | 6      | namecheap            |
+| rekt.name        | available | $9.98     | —             | 40             | 24     | 4      | namecheap            |
+| motorsport.name  | available | $9.98     | —             | 74             | 23     | 10     | namecheap            |
+| pls.name         | available | $9.98     | —             | 60             | 23     | 3      | namecheap            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
