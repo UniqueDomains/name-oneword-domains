@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .name one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,781 domains · **Median ask:** $127.59 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/name`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | dogsick.name     | available | $9.98     | —             | 90             | 1      | 7      | namecheap            |
 | leaveon.name     | available | $9.98     | —             | 80             | 1      | 8      | namecheap            |
 | presents.name    | available | $9.98     | —             | 80             | 9      | 8      | namecheap            |
-| surebet.name     | available | $9.98     | —             | 82             | 8      | 8      | namecheap            |
+| surebet.name     | available | $9.98     | —             | 82             | 7      | 8      | namecheap            |
 | nets.name        | available | $9.98     | —             | 54             | 81     | 4      | namecheap            |
 | index.name       | resell    | —         | —             | 64             | 49     | 5      | Dominet (HK) Limited |
 | intelligent.name | premium   | —         | —             | 86             | 32     | 11     | —                    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
