@@ -82,8 +82,8 @@ print(df.head())
 | blocks.name      | available | $9.98     | —             | 53             | 29     | 6      | namecheap            |
 | echoes.name      | available | $9.98     | —             | 56             | 24     | 6      | namecheap            |
 | rekt.name        | available | $9.98     | —             | 40             | 24     | 4      | namecheap            |
+| Places.name      | available | $9.98     | —             | 74             | 23     | 6      | namecheap            |
 | motorsport.name  | available | $9.98     | —             | 74             | 23     | 10     | namecheap            |
-| pls.name         | available | $9.98     | —             | 60             | 23     | 3      | namecheap            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
