@@ -1,10 +1,10 @@
-# Available .NAME One-Word Domains (10,781)
+# Available .NAME One-Word Domains (10,782)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C781%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C782%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .name one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,781 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,782 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,781 domains · **Median ask:** $127.59 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,782 domains · **Median ask:** $59.24 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/name`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/name`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .NAME one-word domain 
 
 ### Files
 
-- `name.csv` — public CSV extract (1,000 rows)
-- `name.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `name.csv`, public CSV extract (1,000 rows)
+- `name.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| edamame.name     | available | $9.98     | —             | 80             | 9      | 7      | namecheap            |
-| gearup.name      | available | $9.98     | —             | 80             | 16     | 7      | namecheap            |
-| QandA.name       | available | $9.98     | —             | 80             | 10     | 7      | namecheap            |
-| hangon.name      | available | $9.98     | —             | 82             | 6      | 7      | namecheap            |
-| dogsick.name     | available | $9.98     | —             | 90             | 1      | 7      | namecheap            |
-| leaveon.name     | available | $9.98     | —             | 80             | 1      | 8      | namecheap            |
-| presents.name    | available | $9.98     | —             | 80             | 9      | 8      | namecheap            |
-| surebet.name     | available | $9.98     | —             | 82             | 7      | 8      | namecheap            |
-| nets.name        | available | $9.98     | —             | 54             | 81     | 4      | namecheap            |
-| index.name       | resell    | —         | —             | 64             | 49     | 5      | Dominet (HK) Limited |
-| intelligent.name | premium   | —         | —             | 86             | 32     | 11     | —                    |
-| RedSox.name      | available | $9.98     | —             | 72             | 60     | 7      | namecheap            |
-| payments.name    | available | $9.98     | —             | 58             | 33     | 8      | namecheap            |
-| teams.name       | available | $9.98     | —             | 62             | 32     | 5      | namecheap            |
-| letsgo.name      | available | $9.98     | —             | 57             | 31     | 7      | namecheap            |
-| blocks.name      | available | $9.98     | —             | 53             | 29     | 6      | namecheap            |
-| echoes.name      | available | $9.98     | —             | 56             | 24     | 6      | namecheap            |
-| rekt.name        | available | $9.98     | —             | 40             | 24     | 4      | namecheap            |
-| Places.name      | available | $9.98     | —             | 74             | 23     | 6      | namecheap            |
-| motorsport.name  | available | $9.98     | —             | 74             | 23     | 10     | namecheap            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| tie.name          | available | $9.98     | —             | high           | low    | 3      | namecheap        |
+| crab.name         | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| xxv.name          | available | $9.98     | —             | medium         | low    | 3      | namecheap        |
+| unit.name         | resell    | —         | —             | high           | low    | 4      | Key-Systems GmbH |
+| also.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| extra.name        | resell    | —         | —             | high           | low    | 5      | OVH sas          |
+| aunt.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| object.name       | resell    | —         | —             | high           | low    | 6      | Key-Systems GmbH |
+| away.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| airport.name      | resell    | —         | —             | medium         | low    | 7      | Key-Systems GmbH |
+| bite.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| lottery.name      | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
+| calf.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| tobacco.name      | resell    | —         | —             | medium         | low    | 7      | DomainSite, Inc. |
+| fold.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| function.name     | resell    | —         | —             | high           | low    | 8      | Key-Systems GmbH |
+| knot.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| identity.name     | resell    | —         | —             | high           | medium | 8      | Dynadot Inc      |
+| melt.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| spaceshuttle.name | resell    | —         | —             | high           | low    | 13     | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,781 live domains                        |
+| 1,000-row public sample | 10,782 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely .name domains, so the main question is not extension variety but word quality. Names like finals.name, forces.name, getup.name, useit.name, and edamame.name show a mix of dictionary words, action phrases, and brandable terms. The median ask is 127.59, which points to relatively low entry pricing, but buyers should still judge each name on memorability, commercial fit, and how naturally the word works with .name. For founders, the strongest picks are easy to say and easy to trust at first glance. For investors, the key is whether the word has broad relevance despite the narrower buyer pool typical of .name.
+This list covers one-word domain names registered under the .name extension, from everyday nouns like finals.name to compound phrases like windowshop.name. With 10,782 names in this selection and a median asking price near $59, .name offers a lower-cost path to short, memorable domains that may already be unavailable in more competitive extensions. Compare word clarity, length, and pricing to identify names worth acquiring or building a brand around.
 
-- All results are .name domains, so word quality drives the choice
-- Median ask is 127.59, suggesting low upfront pricing
-- Examples range from generic words to action-led brandables
-- Check trademark risk and renewal fit before committing
+- 10,782 one-word .name domains tracked, updated daily
+- Median asking price near $59 across this selection
+- Includes words like headout, coffeeberry, and solarpower
+- Short, brandable format suited for founders and investors
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
