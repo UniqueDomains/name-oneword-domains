@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .name one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,180 domains · **Median ask:** $36.02 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/name`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aft.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| crab.name         | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| cxx.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| unit.name         | resell    | —         | —             | high           | low    | 4      | Key-Systems GmbH |
-| ilx.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| extra.name        | resell    | —         | —             | high           | low    | 5      | OVH sas          |
-| ixl.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| object.name       | resell    | —         | —             | medium         | low    | 6      | Key-Systems GmbH |
-| lxi.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| airport.name      | resell    | —         | —             | medium         | low    | 7      | Key-Systems GmbH |
-| tie.name          | available | $9.98     | —             | high           | low    | 3      | namecheap        |
-| lottery.name      | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
-| xxv.name          | available | $9.98     | —             | medium         | low    | 3      | namecheap        |
-| tobacco.name      | resell    | —         | —             | medium         | low    | 7      | DomainSite, Inc. |
-| agog.name         | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
-| function.name     | resell    | —         | —             | high           | low    | 8      | Key-Systems GmbH |
-| also.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
-| identity.name     | resell    | —         | —             | high           | medium | 8      | Dynadot Inc      |
-| ashy.name         | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
-| spaceshuttle.name | resell    | —         | —             | high           | low    | 13     | GoDaddy.com, LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| away.name     | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| perfect.name  | available | —         | —             | high           | low    | 7      | —                |
+| second.name   | available | —         | —             | high           | low    | 6      | —                |
+| aft.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| crab.name     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| cxx.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| unit.name     | resell    | —         | —             | high           | low    | 4      | Key-Systems GmbH |
+| ilx.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| extra.name    | resell    | —         | —             | high           | low    | 5      | OVH sas          |
+| ixl.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| object.name   | resell    | —         | —             | medium         | low    | 6      | Key-Systems GmbH |
+| lxi.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| airport.name  | resell    | —         | —             | medium         | low    | 7      | Key-Systems GmbH |
+| tie.name      | available | $9.98     | —             | high           | low    | 3      | namecheap        |
+| lottery.name  | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
+| xxv.name      | available | $9.98     | —             | medium         | low    | 3      | namecheap        |
+| tobacco.name  | resell    | —         | —             | medium         | low    | 7      | DomainSite, Inc. |
+| agog.name     | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
+| function.name | resell    | —         | —             | high           | low    | 8      | Key-Systems GmbH |
+| also.name     | available | $9.98     | —             | high           | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
