@@ -140,7 +140,7 @@ bf7bfa3b-fb7b-4d91-bf01-02ef92858533,coffeeman.name,available,9.98,,high,low,9,n
 0533a5dc-01b8-483a-9313-ad6d8c720bf1,auriform.name,available,8.98,9.98,low,low,8,namecheap,,
 091a386a-f505-4a5c-820e-2007758dcbfa,adored.name,available,9.98,,high,low,6,namecheap,,
 7ed85eba-d90b-4fed-b8e2-5153224e66c5,weather.name,available,,,high,high,7,,,
-909dbff7-9447-42a5-bbfe-e7b5eca56506,anticipated.name,available,9.98,,medium,low,11,namecheap,,
+909dbff7-9447-42a5-bbfe-e7b5eca56506,anticipated.name,available,8.98,9.98,low,low,11,namecheap,,
 bc0ef62a-98c9-48fb-a41a-73f42eb7a80a,bothered.name,available,9.98,,medium,low,8,namecheap,,
 8105b9e4-f6ab-43bb-98c8-82f388bbe027,apt.name,available,,,high,high,3,,,
 38fcbe9f-f174-429a-b534-2c4d471af059,ever.name,available,,,high,low,4,,,
@@ -711,7 +711,7 @@ e8b1519f-e9a0-4546-b958-b09f7eba410c,thousandth.name,available,8.98,9.98,low,low
 d5c3e243-d3c6-47da-9d48-e920e16e4520,described.name,available,9.98,,medium,low,9,namecheap,,
 79475f89-f297-4e1e-a48e-bc15a7759d0a,wrestling.name,available,9.98,,high,low,9,namecheap,,
 edca7eca-59bb-4e31-b951-d88a66cbdd7a,equipped.name,available,9.98,,medium,low,8,namecheap,,
-c02b0132-cc4c-4c6d-8e77-b452e9b61613,unit.name,resell,,,high,low,4,Key-Systems GmbH,16/01/2022 09:30,16/01/2027 09:30
+c02b0132-cc4c-4c6d-8e77-b452e9b61613,unit.name,resell,,,medium,low,4,Key-Systems GmbH,16/01/2022 09:30,16/01/2027 09:30
 1cb23789-baee-49ca-aeb8-6275974bf6fe,acetose.name,available,8.98,9.98,low,low,7,namecheap,,
 89cd94d0-e4e2-4550-b644-7627e384d318,youknowit.name,available,9.98,,high,low,11,namecheap,,
 71c0cd67-d96e-433c-9ce2-bec09aed627a,annual.name,available,9.98,,high,low,6,namecheap,,
@@ -753,7 +753,7 @@ f8d9c08a-a67e-4076-a917-f3a8c93a1f25,goodfortune.name,available,9.98,,high,low,1
 8674b1c8-92da-42db-b2fa-5ab3fe0d017b,hermitical.name,available,8.98,9.98,low,low,10,namecheap,,
 f2ffeebf-b45f-4b5d-b157-26e8aa210f1a,afoot.name,available,8.98,9.98,low,low,5,namecheap,,
 024b8da8-ccbb-4be0-b46b-e36632d7736e,rejoin.name,available,9.98,,high,low,6,namecheap,,
-c714b450-3b42-4e64-90be-51167d13d658,whitetea.name,available,9.98,,medium,low,9,namecheap,,
+c714b450-3b42-4e64-90be-51167d13d658,whitetea.name,available,8.98,9.98,medium,low,9,namecheap,,
 e06a1f5c-25c5-4a49-aa2d-1c2644429cc2,happiness.name,available,9.98,,high,low,9,namecheap,,
 d66b339e-87d7-4d99-8b1c-c59b91f2cfb8,activation.name,available,8.98,9.98,low,low,10,namecheap,,
 b388aa3e-86dc-4b36-ba51-86345bfc213c,atthat.name,available,9.98,,high,low,7,namecheap,,
