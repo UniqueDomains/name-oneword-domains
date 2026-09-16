@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .name one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,210 domains · **Median ask:** $26.92 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/name`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aft.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| crab.name         | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| cxx.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| unit.name         | resell    | —         | —             | medium         | low    | 4      | Key-Systems GmbH |
-| ilx.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| extra.name        | resell    | —         | —             | high           | low    | 5      | OVH sas          |
-| ixl.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| object.name       | resell    | —         | —             | medium         | low    | 6      | Key-Systems GmbH |
-| lxi.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
-| airport.name      | resell    | —         | —             | medium         | low    | 7      | Key-Systems GmbH |
-| tie.name          | available | $9.98     | —             | high           | low    | 3      | namecheap        |
-| lottery.name      | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
-| xxv.name          | available | $9.98     | —             | medium         | low    | 3      | namecheap        |
-| tobacco.name      | resell    | —         | —             | medium         | low    | 7      | DomainSite, Inc. |
-| agog.name         | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
-| function.name     | resell    | —         | —             | high           | low    | 8      | Key-Systems GmbH |
-| also.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
-| identity.name     | resell    | —         | —             | high           | medium | 8      | Dynadot Inc      |
-| ashy.name         | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
-| spaceshuttle.name | resell    | —         | —             | high           | low    | 13     | GoDaddy.com, LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| away.name     | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| perfect.name  | available | —         | —             | high           | low    | 7      | —                |
+| second.name   | available | —         | —             | high           | low    | 6      | —                |
+| weather.name  | available | —         | —             | high           | high   | 7      | —                |
+| aft.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| crab.name     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| cxx.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| unit.name     | resell    | —         | —             | medium         | low    | 4      | Key-Systems GmbH |
+| ilx.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| extra.name    | resell    | —         | —             | high           | low    | 5      | OVH sas          |
+| ixl.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| object.name   | resell    | —         | —             | medium         | low    | 6      | Key-Systems GmbH |
+| lxi.name      | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
+| airport.name  | resell    | —         | —             | medium         | low    | 7      | Key-Systems GmbH |
+| tie.name      | available | $9.98     | —             | high           | low    | 3      | namecheap        |
+| lottery.name  | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
+| xxv.name      | available | $9.98     | —             | medium         | low    | 3      | namecheap        |
+| tobacco.name  | resell    | —         | —             | medium         | low    | 7      | DomainSite, Inc. |
+| agog.name     | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
+| function.name | resell    | —         | —             | high           | low    | 8      | Key-Systems GmbH |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
