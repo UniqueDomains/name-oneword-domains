@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .name one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,539 domains · **Median ask:** $25.09 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/name`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| away.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
+| second.name       | available | —         | —             | high           | low    | 6      | —                |
 | aft.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
 | crab.name         | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 | cxx.name          | available | $8.98     | $9.98         | low            | low    | 3      | namecheap        |
@@ -79,10 +81,8 @@ print(df.head())
 | xxv.name          | available | $9.98     | —             | medium         | low    | 3      | namecheap        |
 | tobacco.name      | resell    | —         | —             | medium         | low    | 7      | DomainSite, Inc. |
 | agog.name         | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
-| function.name     | resell    | —         | —             | high           | low    | 8      | Key-Systems GmbH |
+| identity.name     | resell    | —         | —             | medium         | low    | 8      | Dynadot Inc      |
 | also.name         | available | $9.98     | —             | high           | low    | 4      | namecheap        |
-| identity.name     | resell    | —         | —             | high           | medium | 8      | Dynadot Inc      |
-| ashy.name         | available | $8.98     | $9.98         | low            | low    | 4      | namecheap        |
 | spaceshuttle.name | resell    | —         | —             | high           | low    | 13     | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
