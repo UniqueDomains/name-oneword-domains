@@ -1,10 +1,10 @@
-# Available .NAME One-Word Domains (27,717)
+# Available .NAME One-Word Domains (17,609)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C717%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C609%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .name one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,717 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,609 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,717 domains · **Median ask:** $22.99 · **High-demand under $2,500:** 20
+**Public extract:** 1,000 rows · **Live catalog:** 17,609 domains · **Median ask:** $31.20 · **High-demand under $2,500:** 31
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/name`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aft.name     | available | $8.98     | $9.98         | high           | low    | 3      | namecheap        |
-| pub.name     | resell    | —         | —             | high           | low    | 3      | DomainSite, Inc. |
-| voter.name   | premium   | $2,369    | —             | high           | low    | 5      | name.com         |
-| ate.name     | available | $9.98     | —             | high           | low    | 3      | namecheap        |
-| crab.name    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| beg.name     | available | $9.98     | —             | high           | low    | 3      | namecheap        |
-| unit.name    | resell    | —         | —             | high           | low    | 4      | Key-Systems GmbH |
-| cxv.name     | available | $8.98     | $9.98         | high           | low    | 3      | namecheap        |
-| value.name   | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
-| cxx.name     | available | $8.98     | $9.98         | high           | low    | 3      | namecheap        |
-| airport.name | resell    | —         | —             | high           | low    | 7      | Key-Systems GmbH |
-| ilx.name     | available | $8.98     | $9.98         | medium         | low    | 3      | namecheap        |
-| lottery.name | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
-| ixl.name     | available | $8.98     | $9.98         | medium         | low    | 3      | namecheap        |
-| message.name | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
-| leg.name     | available | $9.98     | —             | high           | low    | 3      | namecheap        |
-| profile.name | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.  |
-| lxi.name     | available | $8.98     | $9.98         | medium         | low    | 3      | namecheap        |
-| tobacco.name | resell    | —         | —             | medium         | low    | 7      | DomainSite, Inc. |
-| mum.name     | available | $9.98     | —             | high           | low    | 3      | namecheap        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| fantastic.name   | resell    | —         | —             | high           | medium | 9      | GoDaddy.com, LLC       |
+| chocolate.name   | available | $8.98     | $9.98         | high           | low    | 9      | namecheap              |
+| integrate.name   | available | $8.98     | $9.98         | high           | low    | 9      | namecheap              |
+| information.name | available | $8.98     | $9.98         | high           | low    | 11     | namecheap              |
+| equivalent.name  | available | $8.98     | $9.98         | high           | low    | 10     | namecheap              |
+| least.name       | available | $8.98     | $9.98         | high           | low    | 5      | namecheap              |
+| theory.name      | available | $8.98     | $9.98         | high           | low    | 6      | namecheap              |
+| recognized.name  | available | $8.98     | $9.98         | high           | low    | 10     | namecheap              |
+| mentoring.name   | available | $8.98     | $9.98         | high           | low    | 9      | namecheap              |
+| watched.name     | available | $8.98     | $9.98         | high           | low    | 7      | namecheap              |
+| minimum.name     | available | $8.98     | $9.98         | high           | low    | 7      | namecheap              |
+| flat.name        | available | $8.98     | $9.98         | high           | low    | 4      | namecheap              |
+| durable.name     | available | $8.98     | $9.98         | high           | low    | 7      | namecheap              |
+| adz.name         | available | $8.98     | $9.98         | medium         | low    | 3      | namecheap              |
+| bra.name         | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.        |
+| andes.name       | premium   | $918.85   | $13.99        | high           | low    | 5      | name.com               |
+| awl.name         | available | $8.98     | $9.98         | high           | low    | 3      | namecheap              |
+| banger.name      | resell    | —         | —             | high           | low    | 6      | Realtime Register B.V. |
+| fop.name         | available | $10.99    | $13.99        | high           | low    | 3      | name.com               |
+| taiwan.name      | resell    | —         | —             | high           | high   | 6      | Dynadot Inc            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,717 live domains                        |
+| 1,000-row public sample | 17,609 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 20 high-demand names under $2,500          |
+| Basic exported fields   | 31 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NAME One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
